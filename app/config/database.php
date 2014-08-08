@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'tunnel.pagodabox.com',
-            'database'  => 'dollie',
-            'username'  => 'socorro',
-            'password'  => 'XyGktxCf',
+            'database'  => 'taskmanager',
+            'username'  => 'rosalie',
+            'password'  => 'E1sFOcBt',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
