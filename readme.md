@@ -16,6 +16,9 @@ Public site, no login required.
 
 
 Please note:
+
+I used an external UI for the css and html design for this website.
+
 I was going to create a full Information Technology field database that students can pick their courses for next five years from. Something they can use to fill out their application to apply to extension school.. but i gave up on it mid way.. and went a different route:
 <https://github.com/sameenawan/masters>
 
